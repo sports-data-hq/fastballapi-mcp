@@ -35,14 +35,30 @@ It forwards to the hosted server with your key, so every tool and credit cost is
 
 ## Skills
 
-Claude skills for baseball now live in the SportsDataHQ skills marketplace, one plugin per sport, alongside skills for eight more sports: [sports-data-hq/sportsdatahq-skills](https://github.com/sports-data-hq/sportsdatahq-skills).
+6 Claude skills for baseball ship in this repo, plus 14 analytics skills for models, backtests, calibration and comparing a model with the market. Every number in an answer comes from a live FastballAPI tool call, and odds are information only: no stakes, no picks.
+
+Claude Code:
 
 ```
-/plugin marketplace add sports-data-hq/sportsdatahq-skills
-/plugin install mlb-data@sportsdatahq
+/plugin marketplace add sports-data-hq/fastballapi-mcp
+/plugin install mlb-data@fastballapi
+/plugin install sports-analytics-core@fastballapi
 ```
 
-The plugin connects the FastballAPI MCP server; every number comes from a live call.
+Codex: `codex plugin marketplace add sports-data-hq/fastballapi-mcp`. Any agent that reads skills: `npx skills add sports-data-hq/fastballapi-mcp`.
+
+| Skill | What it does |
+|---|---|
+| `mlb-batter-spray-profile` | Where a batter hits the ball: trajectory and field direction, with hit rates and counts |
+| `mlb-game-preview` | One-page preview: records, run differential, our Elo, the starters' arsenals, injuries and the line |
+| `mlb-pitcher-skill-change` | Has a pitcher changed? Pitch usage, velocity and whiff rate by pitch type across games or seasons |
+| `mlb-regression-candidates` | Who is due to regress: results against steadier rates like BABIP, strikeouts, walks and home runs per fly |
+| `mlb-streaming-planner` | Fantasy streaming plan for the week: probable starters, opponents and park context |
+| `mlb-win-prob-swings` | The biggest win-probability swings of a game, plate appearance by plate appearance |
+
+The analytics skills: `backtesting`, `data-pipeline`, `elo-engineering`, `feature-engineering`, `market-vs-model`, `model-building`, `nl-to-query`, `odds-market-analysis`, `prediction-tracker`, `probability-calibration`, `sports-data-preflight`, `sports-skill-router`, `visualization`, `walk-forward-validation`.
+
+All nine sports' skills live in [sports-data-hq/sportsdatahq-skills](https://github.com/sports-data-hq/sportsdatahq-skills). The copies here are synced from there, so please open issues and pull requests there.
 
 ## Python
 
