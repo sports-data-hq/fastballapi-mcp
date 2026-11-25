@@ -35,22 +35,14 @@ It forwards to the hosted server with your key, so every tool and credit cost is
 
 ## Skills
 
-This repo also ships 16 free Claude skills in [`skills/`](skills/) that turn Claude into a baseball analyst: pitch mix and whiff rate, run value, spray charts, Pythagorean record, game previews, odds analysis, prop modeling (pitcher strikeouts, hits, total bases), edge detection and backtesting. Each skill names the FastballAPI tools it calls and what they cost.
-
-```bash
-git clone https://github.com/noahowsh/fastballapi-mcp.git
-```
-
-Or install them as a Claude Code plugin:
+Claude skills for baseball now live in the SportsDataHQ skills marketplace, one plugin per sport, alongside skills for eight more sports: [sports-data-hq/sportsdatahq-skills](https://github.com/sports-data-hq/sportsdatahq-skills).
 
 ```
-/plugin marketplace add noahowsh/fastballapi-mcp
-/plugin install fastballapi-skills@fastballapi
+/plugin marketplace add sports-data-hq/sportsdatahq-skills
+/plugin install mlb-data@sportsdatahq
 ```
 
-Or with the skills CLI: `npx skills add noahowsh/fastballapi-mcp`.
-
-Point Claude at the `skills/` folder, connect the MCP server below, and ask. The `dispatch` skill routes a request to the right two or three skills. Full list: [`skills/README.md`](skills/README.md).
+The plugin connects the FastballAPI MCP server; every number comes from a live call.
 
 ## Python
 
@@ -201,19 +193,13 @@ MIT for the contents of this repository. Data terms as above.
 
 ## Use with Codex
 
-Add this repo as a Codex plugin marketplace, then install the plugin:
+The SportsDataHQ skills marketplace also works in Codex (it reads `.agents/plugins/marketplace.json`):
 
 ```bash
-codex plugin marketplace add noahowsh/fastballapi-mcp
+codex plugin marketplace add sports-data-hq/sportsdatahq-skills
 ```
 
-Then open the plugin directory in Codex and install `fastballapi-skills` from the `fastballapi` marketplace. The plugin bundles the skills in `skills/` and the FastballAPI MCP server (https://mcp.fastballapi.com/mcp). Set your key first (free at https://fastballapi.com/signup?utm_source=github&utm_medium=readme&utm_campaign=fastballapi-mcp):
-
-```bash
-export FASTBALLAPI_API_KEY=your_key
-```
-
-Codex sends it as a bearer token.
+Install `mlb-data`, which bundles the baseball skills and the FastballAPI MCP server.
 
 ## Use with Gemini CLI
 

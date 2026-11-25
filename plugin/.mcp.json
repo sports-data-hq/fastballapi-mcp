@@ -1,8 +1,0 @@
-{
-  "mcpServers": {
-    "fastballapi": {
-      "type": "http",
-      "url": "https://mcp.fastballapi.com/mcp"
-    }
-  }
-}
