@@ -1,5 +1,7 @@
 # FastballAPI MCP server
 
+[![FastballAPI MCP connector](https://glama.ai/mcp/connectors/io.github.noahowsh/fastballapi/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.noahowsh/fastballapi)
+
 [![MCP Registry](https://img.shields.io/badge/MCP%20Registry-listed-0b7285?style=flat-square)](https://registry.modelcontextprotocol.io/v0/servers?search=io.github.noahowsh/fastballapi)
 
 **The baseball data API.** Pitch-by-pitch data with pitch type, velocity and location, every plate appearance with base-out state and the batted ball, box scores, standings, our own ratings and run values, sportsbook lines by book and MLB player prop lines. MLB since 2015 plus the NCAA Division I games we cover. REST API and MCP server. 500 free credits every month, no card.
