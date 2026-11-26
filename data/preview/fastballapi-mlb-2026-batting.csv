@@ -1,0 +1,101 @@
+league,season,player,team,pa,ab,h,doubles,triples,hr,bb,hbp,so,sf,sh,avg,obp,slg,run_value
+mlb,2026,Yordan Alvarez,Houston Astros,699,574,180,34,1,42,109,11,121,5,0,0.314,0.429,0.596,78.9
+mlb,2026,Ben Rice,New York Yankees,689,592,159,25,4,45,88,6,168,3,0,0.269,0.367,0.552,48.7
+mlb,2026,Pete Crow-Armstrong,Chicago Cubs,734,633,175,31,8,45,84,12,191,4,1,0.276,0.370,0.564,46.9
+mlb,2026,Alec Burleson,St. Louis Cardinals,670,605,169,37,1,26,55,6,121,4,0,0.279,0.343,0.473,40.6
+mlb,2026,Brice Turang,Milwaukee Brewers,737,627,167,41,3,22,101,1,181,2,6,0.266,0.368,0.447,40.3
+mlb,2026,Nick Kurtz,Athletics,435,353,90,15,1,21,79,3,141,0,0,0.255,0.395,0.482,38.7
+mlb,2026,Kyle Schwarber,Philadelphia Phillies,714,592,139,20,1,46,107,8,224,6,0,0.235,0.356,0.505,37.1
+mlb,2026,James Wood,Washington Nationals,623,513,136,30,1,30,102,4,179,4,0,0.265,0.388,0.503,36.3
+mlb,2026,Shohei Ohtani,Los Angeles Dodgers,650,549,149,26,4,31,85,8,162,5,0,0.271,0.374,0.503,34.9
+mlb,2026,TJ Rumfield,Colorado Rockies,631,547,164,30,3,16,72,10,86,2,0,0.300,0.390,0.453,34.6
+mlb,2026,Kevin McGonigle,Detroit Tigers,707,605,168,28,5,18,95,3,100,4,0,0.278,0.376,0.430,34.5
+mlb,2026,Jake Bauers,Milwaukee Brewers,636,524,136,23,2,27,104,5,175,3,0,0.260,0.385,0.466,34.3
+mlb,2026,Gabriel Moreno,Arizona Diamondbacks,549,473,147,33,1,16,61,5,80,10,0,0.311,0.388,0.486,33.7
+mlb,2026,Yandy Diaz,Tampa Bay Rays,749,673,195,31,1,24,59,11,112,6,0,0.290,0.354,0.446,31.8
+mlb,2026,Miguel Vargas,Chicago White Sox,736,610,151,31,1,34,111,7,132,7,0,0.248,0.366,0.469,31.4
+mlb,2026,Bryce Harper,Philadelphia Phillies,706,590,158,33,3,30,107,1,153,8,0,0.268,0.377,0.486,31.1
+mlb,2026,Juan Soto,New York Mets,482,400,110,11,2,27,78,1,65,2,0,0.275,0.393,0.515,31.0
+mlb,2026,Randy Arozarena,Seattle Mariners,669,571,161,34,2,26,68,26,144,4,0,0.282,0.381,0.485,30.8
+mlb,2026,Pete Alonso,Baltimore Orioles,700,602,161,24,0,43,81,12,169,5,0,0.267,0.363,0.522,30.7
+mlb,2026,Elly De La Cruz,Cincinnati Reds,636,559,158,30,5,30,72,2,175,3,0,0.283,0.365,0.515,30.2
+mlb,2026,Fernando Tatis Jr.,San Diego Padres,730,650,185,32,3,27,66,7,136,6,1,0.285,0.354,0.468,30.2
+mlb,2026,Munetaka Murakami,Chicago White Sox,584,481,99,16,1,36,95,6,212,2,0,0.206,0.342,0.468,29.7
+mlb,2026,Willson Contreras,Boston Red Sox,544,455,125,21,3,28,61,24,138,3,1,0.275,0.387,0.519,29.4
+mlb,2026,Luis Garcia Jr.,Washington Nationals,374,357,101,20,5,23,16,0,61,1,0,0.283,0.313,0.560,28.6
+mlb,2026,Sam Antonacci,Chicago White Sox,584,500,137,26,4,8,45,33,85,3,3,0.274,0.370,0.390,26.8
+mlb,2026,CJ Abrams,Washington Nationals,654,579,151,30,4,33,57,12,158,6,0,0.261,0.336,0.497,26.2
+mlb,2026,Andy Pages,Los Angeles Dodgers,602,537,147,27,2,23,51,8,122,6,0,0.274,0.342,0.460,25.9
+mlb,2026,Michael Harris II,Atlanta Braves,651,618,185,38,2,27,24,3,123,3,3,0.299,0.327,0.498,25.8
+mlb,2026,Isaac Paredes,Houston Astros,667,568,148,27,1,25,72,20,90,7,0,0.261,0.360,0.444,25.6
+mlb,2026,Junior Caminero,Tampa Bay Rays,758,667,182,29,1,43,84,4,145,3,0,0.273,0.356,0.513,25.4
+mlb,2026,Brandon Lowe,Pittsburgh Pirates,655,583,152,29,1,35,62,3,188,7,0,0.261,0.331,0.494,24.1
+mlb,2026,Sal Stewart,Cincinnati Reds,700,623,164,25,0,32,63,4,155,10,0,0.263,0.330,0.457,23.9
+mlb,2026,Jac Caglianone,Kansas City Royals,553,512,148,32,2,23,33,7,144,1,0,0.289,0.340,0.494,23.8
+mlb,2026,William Contreras,Milwaukee Brewers,697,616,172,29,1,21,68,4,101,9,0,0.279,0.350,0.432,23.5
+mlb,2026,Ty France,San Diego Padres,525,462,137,25,2,21,38,16,112,8,0,0.297,0.365,0.496,22.7
+mlb,2026,Dominic Canzone,Seattle Mariners,533,477,126,28,4,23,48,5,110,3,0,0.264,0.336,0.484,20.9
+mlb,2026,Cody Bellinger,New York Yankees,583,517,135,25,3,18,59,0,92,7,0,0.261,0.333,0.426,20.8
+mlb,2026,Otto Lopez,Miami Marlins,687,627,191,32,9,11,40,9,89,11,0,0.305,0.349,0.437,20.3
+mlb,2026,Oneil Cruz,Pittsburgh Pirates,419,368,103,14,1,20,47,4,139,0,0,0.280,0.368,0.486,20.2
+mlb,2026,Seiya Suzuki,Chicago Cubs,642,552,148,31,1,26,82,5,157,3,0,0.268,0.366,0.469,20.2
+mlb,2026,Max Muncy,Los Angeles Dodgers,585,512,128,27,1,32,65,7,148,1,0,0.250,0.342,0.494,19.9
+mlb,2026,Jake McCarthy,Colorado Rockies,596,547,159,30,13,15,30,8,95,5,5,0.291,0.334,0.475,19.5
+mlb,2026,Jackson Chourio,Milwaukee Brewers,635,581,169,29,0,27,48,3,147,3,0,0.291,0.346,0.480,19.5
+mlb,2026,Bryan Reynolds,Pittsburgh Pirates,700,596,155,40,3,17,89,11,162,3,0,0.260,0.365,0.423,19.4
+mlb,2026,Rafael Devers,San Francisco Giants,633,558,144,36,1,37,69,2,161,4,0,0.258,0.340,0.525,19.0
+mlb,2026,Chase DeLauter,Cleveland Guardians,607,537,155,33,3,17,66,1,86,3,0,0.289,0.366,0.456,18.7
+mlb,2026,Ryan Jeffers,Minnesota Twins,369,318,81,19,2,14,46,3,66,2,0,0.255,0.352,0.459,18.6
+mlb,2026,Garrett Mitchell,Milwaukee Brewers,585,509,130,30,5,13,66,6,187,1,3,0.255,0.347,0.411,17.8
+mlb,2026,Andres Chaparro,Washington Nationals,228,198,52,13,0,13,25,5,53,0,0,0.263,0.360,0.525,17.4
+mlb,2026,Luke Keaschall,Minnesota Twins,620,528,149,28,4,10,59,23,87,8,2,0.282,0.374,0.407,17.1
+mlb,2026,Trevor Larnach,Minnesota Twins,434,384,103,23,1,13,45,4,79,0,1,0.268,0.351,0.435,16.5
+mlb,2026,Nathaniel Lowe,Cincinnati Reds,276,248,66,17,0,12,28,0,70,0,0,0.266,0.341,0.480,16.4
+mlb,2026,Riley Greene,Detroit Tigers,592,511,142,31,2,21,71,5,157,5,0,0.278,0.368,0.470,16.4
+mlb,2026,Kyle Karros,Colorado Rockies,475,411,104,21,3,13,54,7,100,3,0,0.253,0.347,0.414,16.3
+mlb,2026,Corbin Carroll,Arizona Diamondbacks,671,582,139,33,17,22,73,8,151,8,0,0.239,0.328,0.467,16.0
+mlb,2026,Josh Bell,Minnesota Twins,631,568,145,28,1,21,52,4,124,6,0,0.255,0.319,0.419,16.0
+mlb,2026,Zach Neto,Los Angeles Angels,704,619,148,31,5,27,70,14,215,1,0,0.239,0.330,0.436,15.2
+mlb,2026,Ivan Herrera,St. Louis Cardinals,717,605,146,26,1,19,76,31,138,5,0,0.241,0.353,0.382,15.2
+mlb,2026,Michael Busch,Chicago Cubs,717,605,145,27,2,20,94,13,166,5,0,0.240,0.351,0.390,14.8
+mlb,2026,Luis Arraez,San Francisco Giants,464,420,136,23,7,4,25,4,21,9,6,0.324,0.360,0.440,14.4
+mlb,2026,Mike Trout,Los Angeles Angels,634,513,124,26,0,22,107,11,165,2,0,0.242,0.382,0.421,14.3
+mlb,2026,Ryan O'Hearn,Pittsburgh Pirates,451,407,108,17,0,18,35,6,99,3,0,0.265,0.330,0.440,14.2
+mlb,2026,Andrew Benintendi,Chicago White Sox,480,431,102,24,2,15,41,1,120,6,1,0.237,0.301,0.406,14.2
+mlb,2026,Drake Baldwin,Atlanta Braves,645,576,159,22,0,25,58,9,140,2,0,0.276,0.350,0.444,14.1
+mlb,2026,Cole Carrigg,Colorado Rockies,372,333,93,22,4,12,28,5,89,4,2,0.279,0.341,0.477,13.9
+mlb,2026,Curtis Mead,Washington Nationals,327,284,72,17,1,17,39,4,62,0,0,0.254,0.352,0.500,13.9
+mlb,2026,Liam Hicks,Miami Marlins,409,354,100,9,1,14,40,8,39,6,1,0.282,0.363,0.432,13.7
+mlb,2026,Alex Bregman,Chicago Cubs,710,616,161,33,2,28,76,12,106,6,0,0.261,0.351,0.458,13.6
+mlb,2026,Bryce Eldridge,San Francisco Giants,448,386,103,22,0,17,59,0,119,3,0,0.267,0.362,0.456,13.3
+mlb,2026,Aaron Judge,New York Yankees,285,237,57,10,0,18,43,2,85,1,0,0.241,0.360,0.511,12.9
+mlb,2026,Carter Jensen,Kansas City Royals,602,526,126,35,2,27,65,4,169,7,0,0.240,0.324,0.468,12.6
+mlb,2026,Tristan Peters,Chicago White Sox,515,458,122,32,4,12,39,11,98,2,5,0.266,0.337,0.432,12.6
+mlb,2026,Bobby Witt Jr.,Kansas City Royals,632,558,157,33,1,18,67,3,109,4,0,0.281,0.359,0.441,12.5
+mlb,2026,Jordan Walker,St. Louis Cardinals,667,609,163,32,0,29,50,4,174,4,0,0.268,0.325,0.463,12.2
+mlb,2026,Randal Grichuk,Chicago White Sox,261,247,73,21,2,15,11,1,56,2,0,0.296,0.326,0.579,12.2
+mlb,2026,Spencer Jones,New York Yankees,308,277,67,14,1,11,28,1,112,1,0,0.242,0.313,0.419,11.8
+mlb,2026,Jonathan Aranda,Tampa Bay Rays,726,632,172,28,0,23,71,14,172,8,1,0.272,0.354,0.426,11.6
+mlb,2026,Javier Sanoja,Miami Marlins,490,461,136,32,5,11,27,0,39,1,1,0.295,0.333,0.458,11.5
+mlb,2026,Joc Pederson,Texas Rangers,432,374,88,12,2,26,49,5,102,3,0,0.235,0.329,0.487,11.4
+mlb,2026,Kody Clemens,Minnesota Twins,583,531,127,22,7,27,39,7,127,3,3,0.239,0.298,0.460,11.1
+mlb,2026,Nolan Arenado,Arizona Diamondbacks,599,533,136,25,1,30,52,10,120,3,0,0.255,0.331,0.475,11.0
+mlb,2026,Ronald Acuna Jr.,Atlanta Braves,499,432,107,18,1,20,58,6,109,3,0,0.248,0.343,0.433,10.6
+mlb,2026,Leo Bernal,St. Louis Cardinals,102,95,27,3,0,5,7,0,25,0,0,0.284,0.333,0.474,10.6
+mlb,2026,Eduardo Valencia,Detroit Tigers,138,129,44,14,0,8,6,2,32,0,0,0.341,0.380,0.636,10.6
+mlb,2026,Liam Hicks,Tampa Bay Rays,192,166,46,9,0,5,19,5,22,1,0,0.277,0.366,0.422,10.5
+mlb,2026,Alec Bohm,Philadelphia Phillies,642,579,145,30,1,16,49,9,88,5,0,0.250,0.316,0.389,9.9
+mlb,2026,Ben Malgeri,Detroit Tigers,140,120,30,5,0,5,17,2,36,1,0,0.250,0.350,0.417,9.8
+mlb,2026,Connor Norby,Colorado Rockies,150,129,39,11,0,3,16,3,38,2,0,0.302,0.387,0.457,9.5
+mlb,2026,Esmerlyn Valdez,Pittsburgh Pirates,287,241,56,14,1,17,42,1,108,3,0,0.232,0.345,0.510,9.5
+mlb,2026,Teoscar Hernandez,Los Angeles Dodgers,523,472,124,18,2,17,43,4,145,4,0,0.263,0.327,0.417,8.9
+mlb,2026,Ketel Marte,Arizona Diamondbacks,624,562,140,31,3,22,51,6,86,5,0,0.249,0.316,0.432,8.9
+mlb,2026,Christian Encarnacion-Strand,Baltimore Orioles,213,195,54,13,0,11,11,4,55,2,1,0.277,0.325,0.513,8.9
+mlb,2026,Griffin Conine,Miami Marlins,323,284,75,8,0,19,34,5,95,0,0,0.264,0.353,0.493,8.6
+mlb,2026,Jake Burger,Texas Rangers,620,556,127,23,0,28,56,4,167,4,0,0.228,0.302,0.421,8.5
+mlb,2026,Adley Rutschman,Baltimore Orioles,284,247,62,19,1,8,30,2,40,5,0,0.251,0.331,0.433,8.4
+mlb,2026,Tommy Edman,Los Angeles Dodgers,347,305,73,12,2,8,23,14,70,1,4,0.239,0.321,0.370,8.3
+mlb,2026,Wade Meckler,Los Angeles Angels,337,300,90,15,1,3,32,3,63,0,2,0.300,0.373,0.387,8.0
+mlb,2026,Kyle Tucker,Los Angeles Dodgers,658,567,135,25,4,18,82,3,110,6,0,0.238,0.334,0.392,8.0
+mlb,2026,Coby Mayo,Baltimore Orioles,454,412,94,18,3,24,36,5,138,1,0,0.228,0.297,0.461,7.9
+mlb,2026,Ceddanne Rafaela,Boston Red Sox,583,548,154,32,3,16,22,8,117,3,2,0.281,0.317,0.438,7.9
