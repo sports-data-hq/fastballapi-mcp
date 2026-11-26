@@ -43,7 +43,7 @@ It forwards to the hosted server with your key, so every tool and credit cost is
 
 ## Skills
 
-9 Claude skills for baseball ship in this repo, plus 13 analytics skills for models, backtests, calibration and comparing a model with the market. Every number in an answer comes from a live FastballAPI tool call, and odds are information only: no stakes, no picks.
+10 Claude skills for baseball ship in this repo, plus 13 analytics skills for models, backtests, calibration and comparing a model with the market. Every number in an answer comes from a live FastballAPI tool call, and odds are information only: no stakes, no picks.
 
 Claude Code:
 
@@ -61,6 +61,7 @@ Codex: `codex plugin marketplace add sports-data-hq/fastballapi-mcp`. Any agent 
 | `mlb-dfs-stacks` | Stacks and lineups from your salary file, with implied team totals and hitter and pitcher projections |
 | `mlb-fantasy-waivers` | Waiver pickups by playing time over the last two weeks, then quality, with sample-size flags |
 | `mlb-game-preview` | One-page preview: records, run differential, our Elo, the starters' arsenals, injuries and the line |
+| `mlb-line-movement` | How an MLB moneyline, run line or total moved by book, opening to closing, with the alternate-line ladders |
 | `mlb-pitcher-skill-change` | Has a pitcher changed? Pitch usage, velocity and whiff rate by pitch type across games or seasons |
 | `mlb-player-props-research` | Strikeout, outs, hits, home run and total bases lines by sportsbook, with the record against the line and workload |
 | `mlb-regression-candidates` | Who is due to regress: results against steadier rates like BABIP, strikeouts, walks and home runs per fly |
