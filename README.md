@@ -23,7 +23,7 @@ Claude: [calls get_prop_history]
 Most clients connect to `https://mcp.fastballapi.com/mcp` directly. For a client that launches a local process instead:
 
 ```bash
-git clone https://github.com/noahowsh/fastballapi-mcp.git && cd fastballapi-mcp && npm install
+git clone https://github.com/sports-data-hq/fastballapi-mcp.git && cd fastballapi-mcp && npm install
 FASTBALLAPI_API_KEY=your_key node index.js
 ```
 
@@ -134,13 +134,13 @@ See [`examples/README.md`](examples/README.md) for details. Get a free key (500 
 
 ## Starter projects
 
-- [mlb-pitch-mix](https://github.com/noahowsh/mlb-pitch-mix): a pitcher's arsenal, what he throws in each count and his velocity by inning, in one Python script.
+- [mlb-pitch-mix](https://github.com/sports-data-hq/mlb-pitch-mix): a pitcher's arsenal, what he throws in each count and his velocity by inning, in one Python script.
 
 ## Use it in
 
 - **Claude, ChatGPT, Cursor, VS Code, Gemini CLI, Grok, Perplexity, Le Chat:** add `https://mcp.fastballapi.com/mcp` as a remote MCP server. Step-by-step for each: https://fastballapi.com/mcp?utm_source=github&utm_medium=readme&utm_campaign=fastballapi-mcp
-- **Gemini CLI:** `gemini extensions install https://github.com/noahowsh/fastballapi-mcp`
-- **Cursor:** the [SportsDataHQ plugins for Cursor](https://github.com/noahowsh/sportsdatahq-cursor-plugins)
+- **Gemini CLI:** `gemini extensions install https://github.com/sports-data-hq/fastballapi-mcp`
+- **Cursor:** the [SportsDataHQ plugins for Cursor](https://github.com/sports-data-hq/sportsdatahq-cursor-plugins)
 - **Google Sheets:** `=SDHQ("fastballapi","list_teams")` fills a live table: https://sportsdatahq.com/sheets?utm_source=github&utm_medium=readme&utm_campaign=fastballapi-mcp
 - **REST:** `POST https://mcp.fastballapi.com/v1/<tool>` with an `x-api-key` header: https://fastballapi.com/docs?utm_source=github&utm_medium=readme&utm_campaign=fastballapi-mcp
 
@@ -198,7 +198,7 @@ Coverage by season, read live from the database: https://fastballapi.com/docs?ut
 
 ## Pricing
 
-500 free credits every month, no card. Plans: Starter $19/mo (10,000 credits), Pro $49/mo (30,000), Scale $149/mo (125,000). Wallet top-ups from $5, never expire. https://fastballapi.com/pricing?utm_source=github&utm_medium=readme&utm_campaign=fastballapi-mcp
+500 free credits every month, no card. Plans: Starter $19/mo (10,000 credits), Pro $49/mo (30,000), Scale $149/mo (125,000), Business $299/mo (300,000). Wallet top-ups from $5, never expire. https://fastballapi.com/pricing?utm_source=github&utm_medium=readme&utm_campaign=fastballapi-mcp
 
 ## Attribution
 
@@ -222,7 +222,7 @@ Install `mlb-data`, which bundles the baseball skills and the FastballAPI MCP se
 
 ```bash
 export FASTBALLAPI_API_KEY=your_key
-gemini extensions install https://github.com/noahowsh/fastballapi-mcp
+gemini extensions install https://github.com/sports-data-hq/fastballapi-mcp
 ```
 
 The extension adds the FastballAPI MCP server (https://mcp.fastballapi.com/mcp) and sends the key in the `x-api-key` header. Get a free key (500 credits a month) at https://fastballapi.com/signup?utm_source=github&utm_medium=readme&utm_campaign=fastballapi-mcp.
