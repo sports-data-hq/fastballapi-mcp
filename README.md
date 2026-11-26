@@ -52,7 +52,7 @@ Codex: `codex plugin marketplace add sports-data-hq/fastballapi-mcp`. Any agent 
 | `mlb-batter-spray-profile` | Where a batter hits the ball: trajectory and field direction, with hit rates and counts |
 | `mlb-game-preview` | One-page preview: records, run differential, our Elo, the starters' arsenals, injuries and the line |
 | `mlb-pitcher-skill-change` | Has a pitcher changed? Pitch usage, velocity and whiff rate by pitch type across games or seasons |
-| `mlb-player-props-research` | MLB player prop lines as information |
+| `mlb-player-props-research` | Strikeout, outs, hits, home run and total bases lines by sportsbook, with the record against the line and workload |
 | `mlb-regression-candidates` | Who is due to regress: results against steadier rates like BABIP, strikeouts, walks and home runs per fly |
 | `mlb-streaming-planner` | Fantasy streaming plan for the week: probable starters, opponents and park context |
 | `mlb-win-prob-swings` | The biggest win-probability swings of a game, plate appearance by plate appearance |
